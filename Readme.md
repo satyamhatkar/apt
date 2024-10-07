@@ -50,4 +50,3 @@ We welcome contributions! If you have suggestions for improving the NFT Book Clu
 
 ---
 
-Feel free to modify and expand the README as your project evolves and new features are added!
