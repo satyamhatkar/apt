@@ -1,6 +1,4 @@
-Certainly! Below is the README file for your `NFTBookClub` smart contract:
 
----
 
 # NFT Book Club Smart Contract
 
